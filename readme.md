@@ -26,9 +26,6 @@ When the page is refreshed the saved event is still there.
 <h1 style= "color:#883030">Links</h1>
 
 
-## [GitHub](https://github.com/Montyking20/planner/)
-
-
  ## [Planner](https://montyking20.github.io/planner/)
 <br>
 <br>
@@ -39,25 +36,8 @@ When the page is refreshed the saved event is still there.
 
 <p align= "center" style= "color:#b38d25">Main</p>
 
-![Code Quiz](/assets/images/Screenshot-main.jpg)
+![Planner](/assets/images/Screenshot-main.jpg)
 
-<br>
-
-<p align= "center" style= "color:#b38d25">Questions</p>
-
-![Password size](/assets/images/Screenshot-questions.jpg)
-
-<br>
-
-<p align= "center" style= "color:#b38d25">Quiz End</p>
-
-![Password size](/assets/images/Screenshot-quizend.jpg)
-
-<br>
-
-<p align= "center" style= "color:#b38d25">Leaderboard</p>
-
-![Password size](/assets/images/Screenshot-leaderboard.jpg)
 
 <br>
 
